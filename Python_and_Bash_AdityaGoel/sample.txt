@@ -1,0 +1,4 @@
+Welcome to Tutedude DevOps Assignment 2!
+This file is created using Python.
+We are learning file handling in Python.
+Python makes reading and writing files easy.
