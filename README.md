@@ -30,10 +30,33 @@ The assignment folder contains the documentation, terminal screenshots, and requ
 
 ## Tools and Technologies
 
-- **Operating System:** Manjaro Linux
-- **Shell:** Zsh
+- **Operating Systems:** Manjaro Linux, Windows
+- **Shells:** Zsh, Git Bash
+- **Programming Language:** Python
+- **Code Editor:** Visual Studio Code
 - **Version Control:** Git and GitHub
-- **Utilities:** Core Linux command-line tools
+- **Utilities:** Core Linux command-line tools, Python file handling
+
+### 02 — Python & Bash
+
+**Status:** Completed
+
+**Environment:** Windows | VS Code | Git Bash
+
+**Concepts Covered:**
+
+- Python conditional statements (`if`, `elif`, `else`)
+- User input and grade calculation
+- Dictionaries and key-value pairs
+- Adding, updating, and displaying student records
+- Loops and menu-driven programs (`while`, `break`)
+- File creation and writing (`open()`, `write()`)
+- File reading and displaying contents (`read()`)
+- Basic file handling and terminal execution
+
+**Files:** [Python_and_Bash_AdityaGoel/](Python_and_Bash_AdityaGoel/)
+
+The assignment folder contains four Python programs, a sample text file, and documentation with execution commands, terminal screenshots, and explanations.
 
 ## Learning Progress
 
